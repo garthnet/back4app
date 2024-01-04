@@ -1,0 +1,20 @@
+{
+  "name": "back4app",
+  "version": "1.0.0",
+  "description": "Node.js Server",
+  "main": "index.js",
+  "author": "garthnet",
+  "repository": "https://github.com/garthnet/back4app",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "axios": "^1.6.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
